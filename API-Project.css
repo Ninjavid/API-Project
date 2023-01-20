@@ -1,0 +1,13 @@
+body {
+  background-color: whitesmoke;
+}
+
+.cards {
+  width: fit-content;
+  height: 200px;
+  background-color: #777;
+  padding: 100px;
+  margin: 30px;
+  border-radius: 12px;
+  box-shadow: 5px 5px 5px #555;
+}
